@@ -11,8 +11,7 @@ import json
 API_SECRET = <secret agent man>
 API_KEY = <friends don't let friends do key-to> #wahwah lol
 
-# This /app_scopes resource is defined on the OpenAPI documentation
-# getting a specific scope
+# This /applications resource is defined on the OpenAPI documentation
 CURRENT_GET_ENDPOINT = '/applications'
 
 # Create the Tetration REST Client 
